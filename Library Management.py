@@ -1,4 +1,4 @@
-# creating the class "library" with some functions which are going to act fromt he library side
+# creating the class "library" with some functions which are going to act from the library side
 
 class library:
   def __init__(self,book):
